@@ -1,0 +1,5 @@
+name: NoPiglinBrutes
+version: 1.0.2
+author: Gk01234
+main: me.nate.NoPiglinBrutes.Main
+api-version: 1.16
